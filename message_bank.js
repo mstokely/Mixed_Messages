@@ -17,4 +17,7 @@ const oneLiners = ["As I suspected, someone has been adding soil to my garden. T
 "Bigfoot is sometimes confused with Sasquatch, Yeti never complains.",
 "The inventor of the throat lozenge died last month. There was no coffin at his funeral."];
 
-console.log(oneLiners);
+const messageBank = [puns, dadJokes, oneLiners];
+
+module.export(messageBank);
+
