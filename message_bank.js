@@ -19,5 +19,5 @@ const oneLiners = ["As I suspected, someone has been adding soil to my garden. T
 
 const messageBank = [puns, dadJokes, oneLiners];
 
-module.export(messageBank);
+module.exports =messageBank;
 
